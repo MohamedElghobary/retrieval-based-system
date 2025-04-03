@@ -1,0 +1,4 @@
+cohere
+qdrant-client
+langchain
+python-dotenv
